@@ -1,0 +1,6 @@
+python3 1build_whoosh_index.py
+python3 2getting_all_relevant_page_identifier.py
+python3 3store_all_the_relevant_sentece_from_wiki.py
+python3 4getting_final_claim_with_sentence_jsonfile.py
+python3 similarity '/Users/chen/Desktop/study/Web Search and Text Analysis/project/'
+python3 lstm_fact_verify_softmax_predict.py
